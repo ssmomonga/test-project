@@ -16,6 +16,7 @@
 ---
 
 __太字__
+
 _斜体_
 
 ---
@@ -30,6 +31,7 @@ _斜体_
 
 ---
 
-[埼玉県中小企業診断協会のリンク]([https://www.google.com/](https://www.saitama-it.net/))
+[埼玉県中小企業診断協会のリンク](https://www.saitama-it.net/)
+
 ![スライム](./images/slime.webp)
 
