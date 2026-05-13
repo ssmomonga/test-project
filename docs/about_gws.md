@@ -25,11 +25,11 @@ Google Workspace Business Standard（年間プラン）：　1,600円 / 月（�
 - Googleのサブスクリプションサービス体系は以下の通り。機能と価格を考慮し、Business Standardとする。  
 
 > Googleのサブスク  
-> 　│
-> 　├ One：　個人向け
-> 　│　├ …
-> 　│　└ …
-> 　│
+> 　│ 
+> 　├ One：　個人向け 
+> 　│　├ … 
+> 　│　└ … 
+> 　│ 
 > 　└ Workspace：　企業向け  
 > 　　　├ Business：　中小規模の企業向け（300アカウントまで）  
 > 　　　│　├ Starter  
