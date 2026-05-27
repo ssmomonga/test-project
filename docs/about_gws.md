@@ -19,9 +19,9 @@ Google Workspace Business Standard：
    - 年間契約：　1,600円 / 月（税抜き）
    - 月間契約：　1,900円 / 月（税抜き）
 
-\* Googleのサブスクリプションサービス体系は以下の通り。機能と価格を考慮し、Business Standardとする  
-\* 当初は月間契約で開始し、将来的により安価である年間契約へ移行する（時期未定）  
+\* 当初は月間契約で開始し、将来的により安価である年間契約への移行を検討する（時期未定）  
 \* GWSのドメイン名にはIT研究会で登録・費用負担している「saitama-it.net」を利用する
+\* Googleのサブスクリプションサービス体系は以下の通り。機能と価格を考慮し、Business Standardとする  
 
 > Googleのサブスク  
 > 　│  
@@ -37,7 +37,7 @@ Google Workspace Business Standard：
 > 　　　└ Enterprise：　大規模の企業向け  
 
 ## 3. アカウント
-- IT研究会用アカウント
+- IT研究会用アカウント（1つ）
    - 定例会のビデオ会議などで利用するための共有アカウント  
    - IT研究会で費用負担する  
 - 個人アカウント
@@ -62,11 +62,9 @@ Google Workspace Business Standard：
 - AWS管理担当：　内沼（hiroki.uchiuma@gmail.com）  
 
 ## 6. 導入スケジュール  
-- 2026年6月：    IT研究会用アカウントを発行してトライアル開始  
-- 2026年8月頃：　個人アカウントの募集開始  
-- 未定：         年間契約への移行
-
-<br>
+- 2026年6月：             IT研究会用アカウントを発行してトライアル開始  
+- 2026年8月頃（予定）：    個人アカウントの募集開始  
+- 未定：                  年間契約への移行
 
 ## 7. 個人アカウントの申込方法と支払い（予定）
 ### 7.1. 申込方法
@@ -106,7 +104,6 @@ GWS管理担当へ以下内容を連絡すること。
 [GoogleWorkspace 価格プラン](https://workspace.google.com/pricing?source=gafb-ai-globalnav-ja&hl=ja&ga_region=amer&ga_country=&ga_lang=ja&uj=gafb-home-globalnav-ja&uj=gafb-ai-globalnav-ja)  
 [AppSheet サブスクリプションの選び方](https://support.google.com/appsheet/answer/10105400?hl=ja#core-editions)  
 [Google Workspace の生成 AI に関するプライバシー ハブ](https://knowledge.workspace.google.com/admin/gemini/generative-ai-in-google-workspace-privacy-hub?hl=ja)
-
 
 
 ---
